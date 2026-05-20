@@ -1,0 +1,38 @@
+Pomodoro Technique - Focus Method
+
+## Overview
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. "Pomodoro" means tomato in Italian, named after the tomato-shaped kitchen timer Cirillo used.
+
+## The 5 Steps
+1. **Choose a task** to work on
+2. **Set timer for 25 minutes** (one Pomodoro)
+3. **Work on the task** until the timer rings (no interruptions!)
+4. **Take a short break** (5 minutes)
+5. **After 4 Pomodoros**, take a longer break (15-30 minutes)
+
+## Why It Works
+- **Creates urgency** - Limited time creates focus
+- **Reduces distractions** - Committed to focus for short period
+- **Manages mental energy** - Regular breaks prevent burnout
+- **Provides structure** - Clear work-rest rhythm
+- **Builds momentum** - Easy to start knowing it's only 25 minutes
+
+## Rules for Success
+- **One Pomodoro = one task** - No multitasking
+- **If interrupted**: 
+  - Internal interruption (thought/urge): Write it down, continue Pomodoro
+  - External interruption: Ask to wait, or abandon Pomodoro if urgent
+- **Protect the Pomodoro** - It's sacred focus time
+- **Track your Pomodoros** - Count how many per day for self-awareness
+
+## Variations
+- **Customizable intervals**: 25/5 (traditional), 50/10 (deep work), 15/3 (easy entry)
+- **Flowtime Technique**: Work until natural break, then rest
+- **Group Pomodoros**: Teams working together with shared timer
+
+## Benefits
+- Increased focus and concentration
+- Reduced anxiety about large tasks
+- Improved time estimation skills
+- Clear record of work accomplished
+- Prevention of burnout through structured breaks

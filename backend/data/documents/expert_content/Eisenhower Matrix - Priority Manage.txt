@@ -1,0 +1,36 @@
+Eisenhower Matrix - Priority Management Method
+
+## Overview
+The Eisenhower Matrix, also known as the Urgent-Important Matrix, is a time management tool for prioritizing tasks by urgency and importance. It was popularized by Stephen Covey and attributed to President Dwight D. Eisenhower.
+
+## The Four Quadrants
+
+### Quadrant 1: DO FIRST (Urgent + Important)
+- **Description**: Tasks that require immediate attention and have significant consequences
+- **Examples**: Crises, deadlines, emergencies, pressing problems
+- **Action**: Do these tasks immediately and personally
+- **Strategy**: Minimize time in this quadrant by preventing crises before they occur
+
+### Quadrant 2: SCHEDULE (Not Urgent + Important)
+- **Description**: Activities that contribute to long-term goals and personal development
+- **Examples**: Planning, relationship building, learning new skills, exercise, strategic thinking
+- **Action**: Schedule time for these tasks, they are key to long-term success
+- **Strategy**: Spend most time here - this is where effectiveness lives
+
+### Quadrant 3: DELEGATE (Urgent + Not Important)
+- **Description**: Interruptions that demand attention but don't contribute to goals
+- **Examples**: Some emails, unnecessary meetings, some phone calls, interruptions
+- **Action**: Delegate to others when possible, minimize time spent here
+- **Strategy**: Learn to say no and set boundaries
+
+### Quadrant 4: ELIMINATE (Not Urgent + Not Important)
+- **Description**: Time-wasting activities that provide no value
+- **Examples**: Mindless scrolling, excessive TV, gossip, busywork
+- **Action**: Eliminate completely from your schedule
+- **Strategy**: Recognize and avoid time traps
+
+## How to Apply
+1. List all your tasks
+2. Assess each task: Is it urgent? Is it important?
+3. Place each task in the appropriate quadrant
+4. Take action: Do First → Schedule → Delegate → Eliminate
